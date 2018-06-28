@@ -4,6 +4,7 @@ Friend Management :
 Git URL: https://github.com/kalpeshsambre/SpringBootRepository.git
 
 API Details:
+
 1.Add Friend :
 
                      Method: POST
@@ -26,6 +27,7 @@ API Details:
                                 {
                                   "email":kalpesh.sambre@gmail.com
                                 }
+                                
                                 
 3.Common Friends :
                       Method: POST
