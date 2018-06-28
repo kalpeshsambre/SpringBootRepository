@@ -30,6 +30,7 @@ API Details:
                                 
                                 
 3.Common Friends :
+                      
                       Method: POST
                       URL: http://localhost:8080/commonFriends
                       Request Body: 
@@ -43,6 +44,7 @@ API Details:
 
 
 4.Subscribe Friends :
+                      
                       Method: POST
                       URL: http://localhost:8080/requestToSubscribe
                       Request Body: 
@@ -52,6 +54,7 @@ API Details:
                                   }
   
 5.Block Friend :
+                      
                       Method: POST
                       URL: http://localhost:8080/requestToBlock
                       Request Body: 
@@ -61,6 +64,7 @@ API Details:
                                   }
 
 6.Update from recipients  :
+                      
                       Method: POST
                       URL: http://localhost:8080/receiveUpdateFrom
                       Request Body: 
