@@ -4,6 +4,8 @@ Friend Management :
 
 Git URL: https://github.com/kalpeshsambre/SpringBootRepository.git
 
+Cloud Foundry URL : https://spring-boot-friend-management.cfapps.io
+
 API Details:
 
 1.Add Friend :
