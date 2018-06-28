@@ -11,7 +11,7 @@ API Details:
 1.Add Friend :
 
                      Method: POST
-                     URL: http://localhost:8080/friendRequest
+                     URL: https://spring-boot-friend-management.cfapps.io/friendRequest
                      Request Body: 
                                   { 
 
@@ -25,7 +25,7 @@ API Details:
 2.Friend List :
 
                       Method: POST
-                      URL: http://localhost:8080/friendList
+                      URL: https://spring-boot-friend-management.cfapps.io/friendList
                       Request Body: 
                                 {
                                   "email":kalpesh.sambre@gmail.com
@@ -35,7 +35,7 @@ API Details:
 3.Common Friends :
                       
                       Method: POST
-                      URL: http://localhost:8080/commonFriends
+                      URL: https://spring-boot-friend-management.cfapps.io/commonFriends
                       Request Body: 
                                 { 
                                   "friends":
@@ -49,7 +49,7 @@ API Details:
 4.Subscribe Friends :
                       
                       Method: POST
-                      URL: http://localhost:8080/requestToSubscribe
+                      URL: https://spring-boot-friend-management.cfapps.io/requestToSubscribe
                       Request Body: 
                                   {
                                   "requestor":"kalpesh.sambre@gmail.com",
@@ -59,7 +59,7 @@ API Details:
 5.Block Friend :
                       
                       Method: POST
-                      URL: http://localhost:8080/requestToBlock
+                      URL: https://spring-boot-friend-management.cfapps.io/requestToBlock
                       Request Body: 
                                   {
                                   "requestor":"kalpesh.sambre@gmail.com",
@@ -69,7 +69,7 @@ API Details:
 6.Update from recipients  :
                       
                       Method: POST
-                      URL: http://localhost:8080/receiveUpdateFrom
+                      URL: https://spring-boot-friend-management.cfapps.io/receiveUpdateFrom
                       Request Body: 
                                   {
                                   "sender":"kalpesh.sambre@gmail.com",
