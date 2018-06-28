@@ -1,0 +1,8 @@
+---
+applications:
+-  name: spring-boot-friend-management
+   path: target/FriendManagement-1.0.0-SNAPSHOT.jar
+   domain: cfapps.io
+   memory: 1024m
+   instances: 1
+  
